@@ -1,0 +1,14 @@
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\bin\Debug\net8.0\lab4.0.exe
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\bin\Debug\net8.0\lab4.0.deps.json
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\bin\Debug\net8.0\lab4.0.runtimeconfig.json
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\bin\Debug\net8.0\lab4.0.dll
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\bin\Debug\net8.0\lab4.0.pdb
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\obj\Debug\net8.0\lab4.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\obj\Debug\net8.0\lab4.0.AssemblyInfoInputs.cache
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\obj\Debug\net8.0\lab4.0.AssemblyInfo.cs
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\obj\Debug\net8.0\lab4.0.csproj.CoreCompileInputs.cache
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\obj\Debug\net8.0\lab4.0.dll
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\obj\Debug\net8.0\refint\lab4.0.dll
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\obj\Debug\net8.0\lab4.0.pdb
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\obj\Debug\net8.0\lab4.0.genruntimeconfig.cache
+C:\Users\Samura\Desktop\bebe\lab4.0\lab4.0\obj\Debug\net8.0\ref\lab4.0.dll
